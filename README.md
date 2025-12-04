@@ -1,4 +1,4 @@
-Project
+Projects
 
 * Calculator	A simple command-line calculator capable of basic arithmetic operations (addition, subtraction, multiplication, division).	Functions, conditional logic, basic arithmetic.
 * GIF Creation	A project focused on learning how to generate or manipulate GIF files using Python libraries (e.g., Pillow or similar).	File handling, external libraries, image manipulation logic.
